@@ -1,3 +1,5 @@
+DCCex command station plugin for pmri
+
 # pmri-dccex — DCC-EX driver
 
 The bracket-delimited ASCII protocol driver. DCC-EX (formerly DCC++) is
