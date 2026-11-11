@@ -24,7 +24,7 @@ from pmri_dccex.throttle import DccexThrottle, DccexThrottleManager
 from pmri_dccex.traffic import DccexTrafficController
 from pmri_dccex.transport import BytePort, LoopbackPort, SerialPort, TcpPort, loopback_pair
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __all__ = [
     "BytePort", "DccexConnection", "DccexExRailManager", "DccexMessage",
     "DccexOpsProgrammer", "DccexPowerManager", "DccexProgrammer",

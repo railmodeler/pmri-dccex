@@ -1,4 +1,4 @@
-DCCex command station plugin for pmri
+# DCCex command station plugin for pmri
 
 # pmri-dccex — DCC-EX driver
 
